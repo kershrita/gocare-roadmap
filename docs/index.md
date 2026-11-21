@@ -1,5 +1,7 @@
 # GoCare Roadmap Analysis
 
+> **Update (21 Nov 2026):** see the [Action Plan](action-plan.md) for what to work on next, the [Integration Status](integration-status.md) for what is live today, and the [Review Notes](review-notes.md).
+
 Requirements analysis for the GoCare roadmap features. Each feature has its own page with its details, requirements, and proposed scope.
 
 ## Recommendation System – Short-Term Goals (Next 3-6 Months)

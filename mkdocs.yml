@@ -11,6 +11,7 @@ theme:
     - toc.follow
 
 markdown_extensions:
+  - admonition
   - attr_list
   - md_in_html
   - tables
@@ -19,6 +20,10 @@ markdown_extensions:
 
 nav:
   - Overview: index.md
+  - "Status & Action Plan (Nov 2026)":
+      - "Action Plan": action-plan.md
+      - "Integration Status": integration-status.md
+      - "Review Notes": review-notes.md
   - "Final Decisions": final-decisions.md
   - "Reading Guide": reading-guide.md
   - "Team Requests ⬆ High Priority": team-requests.md
